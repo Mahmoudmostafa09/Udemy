@@ -1,0 +1,66 @@
+h2{
+    text-align: left ;
+    
+}
+
+
+
+section{
+    display: flex;
+    justify-content: space-between   ;
+    margin: 20px;
+    
+}
+
+
+div{
+  margin: 3px;
+}
+
+
+
+
+
+
+.sec-2{
+    display: block;
+    justify-content: space-between   ;
+    margin: 20px;
+    background-color: rgba(238, 233, 233, 0.911);
+    
+    
+}
+
+
+.div-2{
+   
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.div-3{
+   
+    margin-top: 10px  ;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+
+p{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.h4-1{
+   border: 1px solid;
+   width: 150px;
+   height: 20px;
+   padding: 10px;
+    margin-bottom: 20px   ;
+}
